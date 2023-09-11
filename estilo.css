@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+@font-face {
+    font-family: scp;
+    src: url('Night Machine.otf') format('opentype');
+    font-size: 3em
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Antic+Didone&family=Are+You+Serious&family=Averia+Gruesa+Libre&family=Bangers&family=Dancing+Script:wght@400;500;600;700&display=swap');
+body{background-color: aqua;
+
+}
+
+h1 {font-family:'scp';
+    font-size: 5em;
+    font-weight: normal;
+
+}
+p {
+   
+font-family: 'Are You Serious', cursive;
+
+}
+
+h2 {font-family: scp;
+
+}
